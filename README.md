@@ -9,7 +9,7 @@ Este proyecto analiza cómo evolucionó el rendimiento de las principales escude
 
 | Archivo | Descripción |
 |---------|-------------|
-| Tablero/NIKE_2020_2024.pbix | Dashboard interactivo |
+| Tablero/Formula1_Proyect.pbix | Dashboard interactivo |
 | Docs/Documentacion_Tecnica.pdf | Detalle técnico del modelo |
 | Docs/MEDIDAS_DAX.md | Medidas DAX utilizadas |
 | images/ | Capturas del modelo y reportes 
