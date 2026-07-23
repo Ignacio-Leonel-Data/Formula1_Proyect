@@ -1,4 +1,5 @@
-<img width="1510" height="852" alt="Animation2 02" src="https://github.com/user-attachments/assets/ff30f51c-2177-46d2-b350-66f8932c3b57" /># Formula1_Proyect
+
+# Dashboard Power BI – Formula1 Período analizado: temporadas 1996–2005 y 2014–2024.
 
 
 ![Uploading AnimationF111-ezgif.com-optimize.gif…]()
