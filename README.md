@@ -1,7 +1,8 @@
 
 # Dashboard Power BI – Formula 1
 
-![Uploading 1ba05e466c1e7d9473da190bf5777362-Photoroom.png…]()
+![Uploading ProyectoF1_page-0001.jpg…]()
+
 
 Período analizado: temporadas 1996–2005 y 2014–2024.
 
