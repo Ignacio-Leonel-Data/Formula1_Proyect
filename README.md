@@ -29,8 +29,7 @@ Más detalles en: [Medidas DAX utilizadas](Docs/MEDIDAS_DAX.md)
 
 ## ✅ Conclusión
 
-El tablero permite identificar oportunidades de mejora comercial y analizar la evolución del rendimiento por año, trimestre y categoría.
-
+El proyecto permitió integrar un flujo completo de análisis de datos, desde la preparación del dataset hasta la construcción de un dashboard interactivo. La combinación de Python para la limpieza, SQL Server para el modelado y Power BI para la visualización hizo posible transformar datos históricos de la Fórmula 1 en información clara y útil para comparar el rendimiento de escuderías y pilotos entre dos eras del campeonato
 ## 📄 Documentación Técnica
 
 - [Documentacion Tecnica del Dashboard Nike (2020–2024)](Docs/Documentacion_Tecnica.pdf)
