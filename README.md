@@ -16,15 +16,15 @@ Período analizado: temporadas 1996–2005 y 2014–2024.
 
 ## 💾 Modelo de Datos
 
-Estructura en estrella con la tabla de hechos `Ventas` y múltiples dimensiones relacionadas.
+El proyecto se basa en un modelo relacional donde la tabla Results actúa como núcleo del análisis, conectando pilotos, escuderías, carreras y circuitos mediante claves primarias y foráneas.
 
 
 ## 📐 Medidas DAX
 
 Incluye:
-- Facturación Total, Rentabilidad y Margen
-- Tasa YoY, Mediana, Cuartiles
-- Tooltips con narrativa dinámica
+- KPIs de victorias, podios, pilotos analizados y carreras disputadas.
+- Puntos promedio por carrera y tiempo promedio de carrera.
+- Porcentaje promedio de abandonos.
 
 Más detalles en: [Medidas DAX utilizadas](Docs/MEDIDAS_DAX.md)
 
