@@ -1,8 +1,6 @@
-
 # Dashboard Power BI – Formula 1
 
-![Uploading ProyectoF1_page-0001.jpg…]()
-
+<img width="1516" height="848" alt="1ba05e466c1e7d9473da190bf5777362-Photoroom (1)" src="https://github.com/user-attachments/assets/7f4fb0d9-0b36-40e2-b914-04a7e02a65c7" />
 
 Período analizado: temporadas 1996–2005 y 2014–2024.
 
